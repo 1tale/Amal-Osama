@@ -1,0 +1,261 @@
+.title span {
+    color: #7eeae5;
+}
+
+a,
+a:hover,
+img,
+.form-control,
+button {
+    color: #7eeae5;
+}
+
+.subtitle {
+    color: #7eeae5;
+}
+
+.contact p b {
+    color: #7eeae5;
+}
+
+.contact h6 {
+    color: #7eeae5;
+}
+
+.contact-list li .icon span {
+    color: #7eeae5;
+}
+
+.contact-list li .text p a:hover {
+    color: #7eeae5;
+}
+
+input[type="password"],
+input[type="email"],
+input[type="text"],
+input[type="file"],
+textarea {
+    color: #7eeae5;
+}
+
+#loader .loading {
+    color: #7eeae5;
+}
+
+#topnav.scroll .navigation-menu > li > a:hover {
+  color: #7eeae5;
+}
+#topnav.scroll .navigation-menu > li.active > a {
+  color: #7eeae5;
+}
+#topnav.scroll .navbar-toggle span {
+  background-color: #7eeae5;
+}
+
+#topnav .navbar-toggle:hover span {
+  background-color: #7eeae5;
+}
+
+#topnav .navigation-menu > li > a:hover,
+#topnav .navigation-menu > li > a:focus {
+  color: #7eeae5;
+}
+
+#topnav .navigation-menu > li.active > a {
+	color: #7eeae5;
+}
+
+#topnav .navigation-menu > li .submenu li span.label {
+  background-color: #7eeae5;
+}
+
+#topnav.scroll.dark .navigation-menu > li > a:hover {
+  color: #7eeae5;
+}
+
+#topnav.scroll.dark .navigation-menu > li.active > a {
+  color: #7eeae5;
+}
+
+#topnav .navigation-menu > li .submenu li a:hover {
+  color: #7eeae5;
+}
+
+#topnav.dark .navigation-menu > li > a:hover {
+  color: #7eeae5;
+}
+
+ #topnav.dark .navbar-toggle:hover span {
+    background-color: #7eeae5;
+  }
+
+#topnav .navigation-menu > li > a:hover {
+  color: #7eeae5;
+}
+
+#topnav .navigation-menu > li .submenu li a:hover {
+    color: #7eeae5;
+  }
+
+  #topnav .navigation-menu > li.has-submenu.open > a {
+    color: #7eeae5;
+  }
+
+.header .caption h5 {
+    color: #7eeae5;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #7eeae5;
+    border: 1px solid #7eeae5;
+}
+
+.awards .owl-carousel .owl-item img:hover {
+    border: 1px solid #7eeae5;
+}
+
+.services .item .con h5:hover,
+.services .item .con h5 a:hover {
+    color: #7eeae5;
+}
+
+.services .item .con .btn:hover {
+    border-color: #7eeae5;
+}
+
+.services-price-info .title {
+    font-family: 'Didact Gothic', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #7eeae5;
+    margin-bottom: 10px;
+    text-align: left;
+    border-bottom: 1px dashed #7eeae5;
+    line-height: 2em;
+}
+
+.services-price-info .title .price {
+    color: #7eeae5;
+    float: right;
+}
+
+.sidebar-title {
+    border-bottom: 1px solid #7eeae5;
+}
+
+.sidebar .services ul li:before {
+    background: #7eeae5;
+}
+
+.services-banner .icon {
+    color: #7eeae5;
+}
+
+.services-banner-wrap .cont h5 {
+    color: #7eeae5;
+}
+
+.testimonial-say .testimonial-item span {
+    color: #7eeae5;
+}
+
+.testimonial-say .testimonial-item h6 {
+    color: #7eeae5;
+}
+
+.testimonial-say .testimonial-item p b {
+    color: #7eeae5;
+}
+
+.blog .post-cont .tag {
+    color: #7eeae5;
+}
+
+.blog .post-cont h5 a:hover {
+    color: #7eeae5;
+}
+
+.blog .post-cont h4 a:hover {
+    color: #7eeae5;
+}
+
+.blog-sidebar .widget ul li a.active {
+    color: #7eeae5;
+}
+.blog-sidebar .widget ul li a:hover {
+    color: #7eeae5;
+}
+
+.blog-sidebar .widget-title h6 {
+    border-bottom: 1px solid #7eeae5;
+}
+
+.blog-sidebar .tags li {
+    background-color: #7eeae5;
+}
+
+.blog-pagination-wrap li a:hover {
+   background-color: #7eeae5;
+    border: 1px solid #7eeae5;
+}
+.blog-pagination-wrap li a.active {
+    background-color: #7eeae5;
+    border: 1px solid #7eeae5;
+}
+.form-control:active,
+.form-control:focus {
+    border-bottom: 2px solid #7eeae5;
+}
+.btn {
+    background: #7eeae5;
+}
+.line-hr-primary {
+    border-top: 1px solid #7eeae5 !important;
+}
+.line-hr-secondary {
+    border-top: 1px solid #7eeae5 !important;
+}
+.line-vr-section {
+    border-color: #7eeae5;
+}
+.main-footer h6 {
+    color: #7eeae5;
+}
+.main-footer .social-icon a {
+    color: #7eeae5;
+}
+.main-footer .footer-list li .icon i {
+    color: #7eeae5;
+}
+.footer-list li .text p a:hover {
+    color: #7eeae5;
+}
+.main-footer .sub-footer p a:hover {
+    color: #7eeae5;
+}
+.progress-wrap svg.progress-circle path {
+    stroke: #7eeae5;
+}
+.progress-wrap::after {
+    color: #7eeae5}
+.progress-wrap svg.progress-circle path {
+    stroke: #7eeae5;
+}
+.btn:hover {
+    background: #7eeae5;
+}
+a.underline-text {
+    color: #7eeae5;
+}
+.ullist li:before {
+    color: #7eeae5;
+}
+
+a.cate {
+    color: #7eeae5;
+}
+
+input.wpcf7-submit {
+	background-color: #7eeae5!important;
+}
